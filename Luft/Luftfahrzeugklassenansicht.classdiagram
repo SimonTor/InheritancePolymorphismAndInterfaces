@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" dslVersion="1.0.0.0" Id="3841518d-68a8-47b1-866b-8409acfbe99e" name="Luftfahrzeugklassenansicht" linkedPackageId="7102386b-4aaa-4a06-9b7d-f40406aa5503" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <profileInstances>
+    <packageHasProfileInstances Id="7225dd4f-a33d-42d5-aad4-19b417a5c6aa">
+      <profileInstance Id="4738b630-b116-4858-8c76-f7b5f463bbad" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="705efa57-21e3-4cd1-9554-85fd4e1a7d26">
+      <profileInstance Id="484ab9d6-05b7-4711-b8c9-14f16a36e464" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="2de47be0-a787-4951-9a90-74bda13c72a1">
+      <profileInstance Id="b2dc7129-cecd-4bc0-9b59-032b65691ce4" name="CSharpProfile">
+        <elementDefinition Id="715ffb64-f06f-4900-933c-b62ca2636359" />
+      </profileInstance>
+      <elementDefinition Id="a03c448d-1f98-4711-8869-97702ae30c5a" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <package Id="7102386b-4aaa-4a06-9b7d-f40406aa5503" name="Luft">
+    <elementDefinition Id="cbb00b11-568f-4dc2-8418-e68cc05ddfc7" />
+  </package>
+</logicalClassDesignerModel>
